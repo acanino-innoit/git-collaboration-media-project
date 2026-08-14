@@ -19,6 +19,7 @@ def load_env(path: Path) -> dict[str, str]:
         config[key] = value
 
     return config
+    # this is a cool function
 
 
 def main() -> None:
