@@ -22,7 +22,6 @@ def load_env(path: Path) -> dict[str, str]:
     # this is a cool function
     # second comment to that 33
     # third comment
-    # adding 4th comment please pass this PR
 
 
 def main() -> None:
